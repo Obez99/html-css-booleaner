@@ -1,0 +1,41 @@
+
+header{
+    width: auto;
+    background:cornflowerblue;
+    background-image: url(../img/pattern.png);
+    background-size: 400px;
+    padding-top: 50px;
+    padding-left: 10px;
+}
+
+
+#logo{
+    height: 70px;
+}
+
+h1{
+    font-size: 45px;
+    margin-bottom: 0px;
+}
+
+div{
+    color: grey;
+    font-size: 20px;
+}
+#author{
+    font-weight: bold;
+}
+
+#date{
+    font-size: 15px;
+}
+
+.tim_img{
+    padding-top: 50px;
+    width:900px;
+    height:500px;
+}
+
+figure{
+    margin: 0px;
+}
