@@ -60,3 +60,25 @@ article{
 ul{
     padding-left: 20px;
 }
+
+/*PROPRIETA' TABELLA*/
+/***************************************/
+table{
+    width: 100%;
+    text-align: left;
+    border-spacing: 0px;
+}
+
+th{
+    width: 33%;
+}
+
+thead{
+    background-color:#2596be;
+    color: white;
+}
+
+.table_highlight{
+    background-color: skyblue;
+}
+/***************************************/
